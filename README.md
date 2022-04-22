@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: 
 - https://www.linkedin.com/in/goldiluck-rebollido/ -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I ride motorcycles! 
+<!-- - ⚡ Fun fact: I ride motorcycles!  -->
 
